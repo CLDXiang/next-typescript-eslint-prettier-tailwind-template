@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "css.validate": false,
+  "cSpell.words": ["tailwindcss"],
+  "eslint.nodePath": "../node_modules",
+  "eslint.validate": [
+    "typescript",
+    "typescriptreact",
+    "javascript",
+    "javascriptreact"
+  ],
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
